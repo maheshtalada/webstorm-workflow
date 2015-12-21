@@ -12,4 +12,4 @@ describe("intial test case", function () {
     it("should libarary installed & runnning", function () {
         true.should.eql(true);
     })
-})
+});
