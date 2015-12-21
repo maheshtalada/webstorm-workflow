@@ -1,2 +1,2 @@
 # webstorm-workflow
-webstorm workflow for node project
+Noode.js development webstorm editor
